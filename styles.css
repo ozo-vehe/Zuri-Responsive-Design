@@ -423,7 +423,8 @@ div.footer h6 {
         position: absolute;
         top: calc(50%-10rem);
         transform: translateY(-50%);
-        left: 0px;
+        left: initial;
+        right: 0px;
     }
 
     div.snapshot-box-content {
