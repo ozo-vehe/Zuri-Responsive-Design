@@ -348,6 +348,7 @@ div.footer h6 {
     padding-top: 6rem;
 }
 
+
 /********   Media Querry    ************/
 @media  screen and (max-width: 768px) {
     .nav-hamburger {
@@ -362,7 +363,6 @@ div.footer h6 {
 
     div.nav-bar {
         padding: 1rem 3rem;
-        border: thin solid blue;
         height: 70px;
         position: relative;
     }
