@@ -353,6 +353,7 @@ div.footer h6 {
 @media  screen and (max-width: 768px) {
     .nav-hamburger {
         display: block;
+        cursor: pointer;
     }
     .nav-hamburger div {
         width: 35px;
